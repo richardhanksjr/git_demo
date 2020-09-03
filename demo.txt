@@ -1,2 +1,3 @@
 Some new text.
 Now adding some hello text!
+I added text too!
